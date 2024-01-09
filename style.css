@@ -6,7 +6,7 @@
 header {
   border-radius: 16px;
   background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url(/images/Banner\ Image.png);
+    url(images/Banner\ Image.png);
   background-size: cover;
   background-position: center;
   height: 600px;
@@ -63,7 +63,7 @@ header {
 
 .kola {
   background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url(/images/Vectorrr.png);
+    url(images/Vectorrr.png);
   background-repeat: no-repeat;
   display: flex;
   margin: 50px 140px;
